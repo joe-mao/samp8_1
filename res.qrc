@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/actCascade.PNG</file>
+        <file>image/actCascade.jpg</file>
+        <file>image/joe.jpg</file>
+    </qresource>
+</RCC>
